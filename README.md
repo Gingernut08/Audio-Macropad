@@ -2,14 +2,20 @@ Full Design:
 
 
 <img width="906" height="718" alt="image" src="https://github.com/user-attachments/assets/137e0172-917c-4e2d-860a-5704715560b6" />
+
+
 Schematic:
 
 
 <img width="708" height="596" alt="image" src="https://github.com/user-attachments/assets/9a766f49-1358-4c4d-b6a2-25422d51f4da" />
+
+
 PCB:
 
 
 <img width="826" height="773" alt="image" src="https://github.com/user-attachments/assets/2b2f6546-989c-4ca2-a337-519b28dba7aa" />
+
+
 Case:
 
 
